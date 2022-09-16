@@ -12,7 +12,7 @@
 
 
 
-[ 📎 Clique aqui para acessar] ()
+[ 📎 Clique aqui para acessar] (https://michel-maia.github.io/Projeto-Jogo-da-Memoria-BatMemoria/)
 
 
  ## Tecnologias 🖥️ 🚀 
